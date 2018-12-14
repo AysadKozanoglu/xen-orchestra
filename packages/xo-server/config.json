@@ -47,6 +47,8 @@
 
     // timeout in milliseconds (set to 0 to disable)
     "timeout": 600e3,
+    // timeout to getInfo on remote in milliseconds
+    "timeoutInfo": 5e3
 
     // see https://github.com/vatesfr/xen-orchestra/issues/3419
     // "useSudo": false
